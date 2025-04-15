@@ -20,7 +20,7 @@ It features a Gemini-integrated chatbot for intelligent financial assistance, re
 ## 🗂️ Project Structure
 
 ```
-Prayatna_25_Hackathon/
+Money_Mentor_Prayatna-2025/
 ├── src/              # React frontend using npm
 ├── backend/          # Flask backend (Python-based)
 ├── .env.example      # Environment variable example
@@ -32,7 +32,7 @@ Prayatna_25_Hackathon/
 ## 🛠️ Prerequisites
 
 - [Node.js & npm](https://nodejs.org/)
-- [Python 3.8+](https://www.python.org/) for the backend
+- [Python 3.12+](https://www.python.org/) for the backend
 
 ---
 
@@ -42,7 +42,7 @@ Prayatna_25_Hackathon/
 
 ```bash
 git clone https://github.com/ajaykrishna00-7/Money-Mentor-Stock-market-prediction-and-learning-system-
-cd Prayatna_25_Hackathon
+cd Money-Mentor-Stock-market-prediction-and-learning-system-
 ```
 
 ---
@@ -55,7 +55,7 @@ npm run dev        # Start development server
 ```
 
 The React app should now be running on:  
-👉 [http://localhost:3000](http://localhost:3000)
+👉 [http://localhost:8000](http://localhost:8000)
 
 ---
 
